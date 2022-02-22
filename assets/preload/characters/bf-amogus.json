@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-127,
+				-85
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-126,
+				-191
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-188
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-86,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rBF NOTE R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				22
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rBF NOTE L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				29
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rBF NOTE D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rBF NOTE U",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_RETRO_AMOGUS",
+	"position": [
+		-30,
+		370
+	],
+	"healthicon": "bfsus",
+	"flip_x": true,
+	"healthbar_colors": [
+		113,
+		113,
+		113
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
